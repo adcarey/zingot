@@ -18,9 +18,8 @@
   margin: auto;
 }
 
-.mySlides {
-    display: none;
-    max-height: 100px;
+.container-fluid{
+	height: 100%;
 }
 .mySlides img{
 	height: 500px;
